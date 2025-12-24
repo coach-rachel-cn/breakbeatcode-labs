@@ -1,4 +1,4 @@
-# Code Next Breakbeatcode Labs
+# Code Next Breakbeatcode Labs 🎵🐍🎧
 Welcome to the Code Next Breakbeatcode Club labs! These exercises are designed to give you hands-on practice with Python programming concepts while also making your own beats and learning music theory concepts with EarSketch.
 <br>
 
